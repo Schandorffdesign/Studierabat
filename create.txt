@@ -1,9 +1,0 @@
-CREATE TABLE Markers
-(
-	id INT NOT NULL AUTO_INCREMENT,
-	latitude INT NOT NULL,
-	longtitude INT NOT NULL,
-	title VARCHAR(60) NOT NULL,
-	category INT(1) NOT NULL,
-	content TEXT NOT NULL
-);
